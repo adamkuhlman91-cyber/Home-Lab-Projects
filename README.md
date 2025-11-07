@@ -9,3 +9,5 @@ Projects So Far
 ##Home Lab Projects
 
 - [Nextcloud Server on Raspberry Pi](./Nextcloud-Server-Lab/README.md)
+
+- [Home Network Overhaul & Security Segmentation Lab](./Home-Network-Lab/README.md)
