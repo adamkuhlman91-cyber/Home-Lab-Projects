@@ -11,3 +11,5 @@ Projects So Far
 - [Nextcloud Server on Raspberry Pi](./Nextcloud-Server-Lab/README.md)
 
 - [Home Network Overhaul & Security Segmentation Lab](./Home-Network-Lab/README.md)
+
+- [Microsoft Azure Virtual Machine Deployment Lab](./Azure-VM-Lab/README.md)
