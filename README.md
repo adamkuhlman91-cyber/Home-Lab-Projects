@@ -6,7 +6,7 @@ This repo documents my hands-on progress as I pursue my first cybersecurity role
 ⸻
 
 Projects So Far
-##Home Lab Projects
+-Home Lab Projects-
 
 - [Nextcloud Server on Raspberry Pi](./Nextcloud-Server-Lab/README.md)
 
