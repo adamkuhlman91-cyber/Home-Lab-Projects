@@ -15,3 +15,5 @@ Projects So Far
 - [Microsoft Azure Virtual Machine Deployment Lab](./Azure-VM-Lab/README.md)
 
 - [Windows 11 Pro STIG Hardening Lab (Parallels VM)](./Windows11-STIG-Lab/README.md)
+
+- [Windows 11 System Baseline & Patch Management Lab](./System-Baseline-Lab/README.md)
