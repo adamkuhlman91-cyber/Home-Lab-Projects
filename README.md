@@ -18,4 +18,4 @@ Projects So Far
 
 - [Windows 11 System Baseline & Patch Management Lab](./System-Baseline-Lab/README.md)
 
-- [Homelab-Active-Directory](./homelab-active-directory/README.md)
+- [homelab-active-directory](./homelab-active-directory/README.md)
