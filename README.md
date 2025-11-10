@@ -17,3 +17,5 @@ Projects So Far
 - [Windows 11 Pro STIG Hardening Lab (Parallels VM)](./Windows11-STIG-Lab/README.md)
 
 - [Windows 11 System Baseline & Patch Management Lab](./System-Baseline-Lab/README.md)
+
+- [Homelab-Active-Directory](./homelab-active-directory/README.md)
