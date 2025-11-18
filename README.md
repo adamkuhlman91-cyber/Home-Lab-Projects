@@ -19,3 +19,5 @@ Projects So Far
 - [Windows 11 System Baseline & Patch Management Lab](./System-Baseline-Lab/README.md)
 
 - [Windows Server & Client Domain Controller Lab (Hyper-V)](./WindowsServer-ClientLab/README.md)
+
+- [Windows Mini SOC Lab – AD + Splunk](./windows-mini-soc-lab/README.md)
